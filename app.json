@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-redux",
-    "slug": "expo-redux",
+    "name": "Task-management-system",
+    "slug": "Task-management-system",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
