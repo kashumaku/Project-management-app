@@ -48,7 +48,7 @@ const Login = ({ navigation }) => {
       alert(
         err.message.includes("Network Error")
           ? err.message
-          : err.response.data?.message
+          : err.response.data?.message||"Faild to login"
       );
     } finally {
       setIsLoading(false);
