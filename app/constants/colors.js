@@ -3,10 +3,10 @@ export const colors = {
   lightBlack: "#333",
   gray: "#777",
   darkGray: "#444",
-  lightGray: "#aaa",
+  lightGray: "#eee",
 
   white: "#fff",
-  lightWhite: "#ccc",
+  lightWhite: "#ddd",
 
   lightTeal: "#4d869c",
   dodgerBlue: "dodgerblue",

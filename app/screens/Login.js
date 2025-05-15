@@ -118,12 +118,13 @@ const styles = StyleSheet.create({
     width: "85%",
   },
   title: {
-    fontSize: 50,
+    fontSize: 30,
     fontWeight: "bold",
   },
   desc: {
     fontSize: 20,
     color: colors.gray,
+    textAlign:'center'
   },
   inputContainer: {
     flexDirection: "row",
@@ -131,7 +132,7 @@ const styles = StyleSheet.create({
     gap: 5,
     backgroundColor: colors.lightGray,
     borderRadius: 10,
-    paddingHorizontal: 5,
+    paddingHorizontal: 10,
     width: "100%",
   },
   input: {
@@ -157,7 +158,7 @@ const styles = StyleSheet.create({
   },
 
   btnText: {
-    fontSize: 30,
+    fontSize: 20,
     color: colors.lightWhite,
   },
 });
